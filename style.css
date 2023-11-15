@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Intellisense Ltd</title>
+    <style>
+        body{
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+                font-size: 36;
+            }
+
+            /* Header styles */
+            header {
+                background-color: #1a237e;
+                color: #fff;
+                text-align: center;
+                padding: 1em 0;
+                overflow: hidden;
+
+            }
+
+            header h1 {
+                margin: 0;
+            }
+
+            /* Navigation styles */
+            nav ul {
+                list-style-type: none;
+                padding: 0;
+                text-align: center;
+            }
+
+            nav ul li {
+                display: inline;
+                margin: 0 10px;
+            }
+
+            a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 26;
+
+            }
+            nav a:hover{
+            background: #87ceeb;
+            color:black;
+            }
+            .container{
+                max-width:1235px;
+                margin:auto;
+                background:#f2f2f2;
+                overflow:auto;
+                padding: 2em 0;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .image{
+                flex: 1;
+                padding: 20px;
+            }
+            .gallery{
+            margin:5px;
+            border:1px solid #ccc;
+            float:left;
+            width:390px;
+            }
+            .gallery img{
+            width:100%;
+            height:auto;
+            }
+            .desc{
+            padding:15px;
+            text-align:center;
+            }
+            /* Section styles */
+            section {
+                /*padding: 20px;*/
+                margin: 20px;
+                background-color: #fff;
+                text-align: justify;
+                font-size: 36;
+                font-style: bold;
+
+            }
+            box{
+            box-sizing:border-box;
+            }
+            /* Footer styles */
+            footer {
+                background-color: #333;
+                color: #fff;
+                text-align: center;
+                padding: 0em 0;
+
+                bottom: 0;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Your HTML content here -->
+</body>
+</html>
